@@ -97,9 +97,8 @@ oil-price-forecasting-arima/
 ### Run on Google Colab *(recommended)*
 Click the badge below — no setup required:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/oil-price-forecasting-arima/blob/main/time_series_final.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ala-Eddine-Mezdoud/oil-price-forecasting-arima/blob/main/time_series_final.ipynb)
 
-> Replace `YOUR_USERNAME` with your GitHub username after uploading.
 
 ### Run Locally
 
