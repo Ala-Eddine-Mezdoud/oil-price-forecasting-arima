@@ -103,7 +103,7 @@ Click the badge below — no setup required:
 ### Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/oil-price-forecasting-arima.git
+git clone https://github.com/Ala-Eddine-Mezdoud/oil-price-forecasting-arima.git
 cd oil-price-forecasting-arima
 pip install pandas numpy matplotlib statsmodels scipy scikit-learn
 jupyter notebook time_series_final.ipynb
@@ -167,8 +167,9 @@ jupyter notebook time_series_final.ipynb
 
 ## Author
 
-**Ala Eddine**
-Machine Learning Engineer in Progress
+**Mezdoud Ala Eddine**  
+Software Engineer
+[GitHub](https://github.com/Ala-Eddine-Mezdoud) · [LinkedIn](https://www.linkedin.com/in/ala-eddine-student-mezdoud/)
 
 ---
 
