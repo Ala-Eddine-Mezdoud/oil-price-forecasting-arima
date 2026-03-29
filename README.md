@@ -30,7 +30,7 @@ The goal is to determine whether historical price dynamics alone can produce rel
 
 > The model successfully tracked the general 2024 price level (~$75–77/barrel). The April 2024 spike to ~$90 (driven by Middle East tensions) was not captured — as expected from any linear model.
 
-![Forecast vs Actuals](figures/forecast.png)
+![Forecast vs Actuals](./figures/forecast.png)
 
 ---
 
@@ -119,17 +119,17 @@ jupyter notebook time_series_final.ipynb
 ### Time Series with Train/Test Split
 > Full price history from 1987–2024. The red dashed segment is the withheld test set.
 
-![Time Series Plot](figures/ts_plot.png)
+![Time Series Plot](./figures/ts_plot.png)
 
 ### ACF & PACF of Differenced Series
 > Used to identify the AR and MA orders. Clear cutoff at lag 1 in both plots guided the ARIMA(2,1,1) selection.
 
-![ACF and PACF](figures/acf_pacf.png)
+![ACF and PACF](./figures/acf_pacf.png)
 
 ### Residual Diagnostics (2×2)
 > Residuals over time, histogram vs normal curve, ACF of residuals, and Q-Q plot. Confirms white-noise residuals with noted heavy tails.
 
-![Residual Diagnostics](figures/diagnostics.png)
+![Residual Diagnostics](./figures/diagnostics.png)
 
 ### 12-Month Forecast vs Actuals
 > Green dashed line = ARIMA forecast. Red = actual 2024 prices. Green shaded region = 95% confidence interval.
